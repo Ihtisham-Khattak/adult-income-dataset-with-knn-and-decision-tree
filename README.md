@@ -1,18 +1,15 @@
 # adult-income-dataset-with-knn-and-decision-tree
-20084    1
-20027    1
-39505    0
-39534    1
-12586    1
-        ..
-34451    0
-21928    1
-18106    1
-31496    1
-37077    1
-Name: income, Length: 13567, dtype: int64
-0.8085059335151471
-array([[2055, 1271],
-       [1327, 8914]])
-<sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay at 0x7fab4267b050>
-Kernel console image
+
+Importing of the dataset from the directory
+![image](https://user-images.githubusercontent.com/86098390/170833894-f3f0d6b1-9410-411c-b955-1b07d6bb1f20.png)
+
+Clearing Data
+![image](https://user-images.githubusercontent.com/86098390/170833904-c598a1b7-bea0-46d8-a672-f1bf685f19f4.png)
+
+Spliting DataFrame to integers and strings
+![image](https://user-images.githubusercontent.com/86098390/170833962-d7884032-6a34-4a27-872c-f50282fa18ae.png)
+![image](https://user-images.githubusercontent.com/86098390/170833969-a744ace2-4ede-459a-9c37-a16cd35dfb0e.png)
+
+![image](https://user-images.githubusercontent.com/86098390/170833949-3479f974-caff-4884-9460-2cda7af8ceaa.png)
+
+![download](https://user-images.githubusercontent.com/86098390/170833880-12372812-ca01-4328-8aaf-fc5139c4d30d.png)
